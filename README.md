@@ -63,3 +63,13 @@ MOVE
 REPORT
 
 Output: 3,3,NORTH
+
+## How to run the program
+
+1. Download the RobotCodingChallenge.exe and the sample input file(inputFile.txt) to your local machine.
+2. For windows platform, open command prompt and run the application using this command: 
+  RobotCodingChallenge.exe -inputFile="D:\Downloads\inputFile.txt"
+
+## Additional notes
+1. This C++ application is developed using Microsoft Visual Studio Professional 2019 Version 16.11.11.
+2. Unit testing is done using Google test extension.
